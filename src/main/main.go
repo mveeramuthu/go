@@ -13,4 +13,6 @@ func main() {
 
 	fmt.Println(writeHelloWorld())
 
+	fmt.Println(split(17))
+
 }
